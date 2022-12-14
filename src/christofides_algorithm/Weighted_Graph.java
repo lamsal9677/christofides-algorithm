@@ -40,11 +40,11 @@ public class Weighted_Graph {
 				 }
 			 }
 		 }
-		public Graph getMST(Graph grph) {
-			
-			
-			
-			return grph;
+
+		public Graph getMST(Graph graph) {
+			// TODO Auto-generated method stub
+			return null;
 		}
+		
 	}
 }

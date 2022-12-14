@@ -1,0 +1,103 @@
+Columbus, OH
+Lansing, MI
+207.8
+Columbus, OH
+Springfield, IL
+352.84
+Columbus, OH
+Indianapolis, IN
+168.07
+Columbus, OH
+Harrisburg, PA
+323.60
+Columbus, OH
+Trenton, NJ
+436.60
+Columbus, OH
+Albany, NY
+514.14
+Columbus, OH
+Frankfort, KY
+157.79
+Columbus, OH
+Nashville, TN
+333.43
+Columbus, OH
+Charleston, WV
+133.24
+Columbus, OH
+Richmond, VA
+343.15
+Lansing, MI
+Indianapolis, IN
+221.06
+Lansing, MI
+Springfield, IL
+333.94
+Lansing, MI
+Harrisburg, PA
+431.46
+Lansing, MI
+Trenton, NJ
+536.5
+Lansing, MI
+Albany, NY
+548.08
+Lansing, MI
+Frankfort, KY
+313.55
+Lansing, MI
+Nashville, TN
+469.16
+Lansing, MI
+Charleston, WV
+339.43
+Lansing, MI
+Richmond, VA
+519.35
+Indianapolis, IN
+Springfield, IL
+185.42
+Indianapolis, IN
+Harrisburg, PA
+491.59
+Indianapolis, IN
+Trenton, NJ
+604.63
+Indianapolis, IN
+Albany, NY
+674.0
+Indianapolis, IN
+Frankfort, KY
+128.41
+Indianapolis, IN
+Nashville, TN
+251.43
+Indianapolis, IN
+Charleston, WV
+261.80
+Indianapolis, IN
+Richmond, VA
+494.89
+Springfield, IL
+Harrisburg, PA
+675.54
+Springfield, IL
+Trenton, NJ
+788.67
+Springfield, IL
+Albany, NY
+848.14
+Springfield, IL
+Frankfort, KY
+278.76
+Springfield, IL
+Nashville, TN
+294.80
+Springfield, IL
+Charleston, WV
+441.17
+Springfield, IL
+Richmond, VA
+676.32
+End of Data
